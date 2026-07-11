@@ -1,0 +1,7 @@
+print('DDD  L')
+print('D  D L')
+print('D  D L')
+print('D  D L')
+print('D  D L')
+print('D  D L')
+print('DDD  LLLL')
